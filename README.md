@@ -40,17 +40,8 @@ This project is allows users to register, storing their information in a MySQL d
     - Select Run As > Run on Server.
     - Choose the configured Apache Tomcat Server and click Finish.
 
-2. **Access the Registration Form**:
-    - Open a web browser and navigate to `http://localhost:8080/UserRegistrationJDBCApp/register.html`.
-
-3. **Register a User**:
+2. **Register a User**:
     - Fill out the registration form with your details and submit the form.
 
-4. **View Success Page**:
+3. **View Success Page**:
     - Upon successful registration, you will be redirected to a success page.
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or new features you'd like to add.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
