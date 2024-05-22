@@ -11,7 +11,7 @@ This project is allows users to register, storing their information in a MySQL d
 ## Setup
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/UserRegistrationJDBCApp.git
+    git clone https://github.com/adithyaranand/UserRegistrationJDBCApp.git
     ```
 
 2. **Import Project into Eclipse**: 
